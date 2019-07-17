@@ -57,10 +57,5 @@ end
 def runner
   # code runner here
   welcome
-  deal_card
-  deal_card
-  deal_card
-  get_user_input
-  display_card_total(card_total)
 end
     
