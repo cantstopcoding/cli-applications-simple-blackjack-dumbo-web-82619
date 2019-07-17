@@ -57,8 +57,8 @@ end
 def runner
   # code runner here
   welcome
-  initial_round
-  hit?(deal_card)
-  display_card_total(deal_card)
+  until hit >= 21
+    
+  end
 end
     
