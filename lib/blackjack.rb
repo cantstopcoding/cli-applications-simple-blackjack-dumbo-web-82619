@@ -58,8 +58,8 @@ def runner
   # code runner here
   welcome
   initial_round
-  counter = 0 
+   
   
-  end_game
+  end_game(hit?(deal_card))
 end
     
