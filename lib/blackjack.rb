@@ -59,7 +59,7 @@ def runner
   welcome
   counter = 0 
   until hit?(deal_card) >= 21
-    counter++
+    counter += 1
   end
 end
     
