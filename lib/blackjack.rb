@@ -58,6 +58,6 @@ def runner
   # code runner here
   welcome
   initial_round
-  hit?(deal_card)
+  hit?(get_user_input)
 end
     
