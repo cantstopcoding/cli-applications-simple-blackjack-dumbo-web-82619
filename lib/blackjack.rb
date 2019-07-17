@@ -61,5 +61,6 @@ def runner
   deal_card
   deal_card
   get_user_input
+  display_card_total(card_total)
 end
     
