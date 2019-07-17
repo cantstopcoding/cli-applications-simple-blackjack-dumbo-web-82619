@@ -57,7 +57,7 @@ end
 def runner
   # code runner here
   welcome
-  counter = 0 
+  
   
 end
     
