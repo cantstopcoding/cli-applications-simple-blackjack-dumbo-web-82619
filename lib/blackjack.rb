@@ -60,6 +60,6 @@ def runner
   initial_round
   hit?(deal_card)
   display_card_total(deal_card)
-end_game
+  end_game
 end
     
