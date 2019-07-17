@@ -60,6 +60,6 @@ def runner
   initial_round
    
   
-  end_game(hit?(deal_card))
+  
 end
     
