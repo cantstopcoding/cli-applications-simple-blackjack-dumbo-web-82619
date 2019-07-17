@@ -58,6 +58,6 @@ def runner
   # code runner here
   welcome
   initial_round
-  hit?(get_user_input)
+  hit?(initial_round)
 end
     
