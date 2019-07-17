@@ -57,5 +57,7 @@ end
 def runner
   # code runner here
   deal_card
+  deal_card
+  deal_card
 end
     
