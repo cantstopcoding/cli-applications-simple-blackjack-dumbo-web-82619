@@ -57,9 +57,6 @@ end
 def runner
   # code runner here
   welcome
-  counter = 0 
-  until hit?(deal_card) >= 21
-    counter += 1
-  end
+  
 end
     
