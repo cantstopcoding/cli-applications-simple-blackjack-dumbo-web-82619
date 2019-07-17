@@ -59,5 +59,6 @@ def runner
   deal_card
   deal_card
   deal_card
+  get_user_input
 end
     
