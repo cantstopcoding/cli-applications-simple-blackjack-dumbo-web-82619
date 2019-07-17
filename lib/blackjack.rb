@@ -57,7 +57,7 @@ end
 def runner
   # code runner here
   welcome
-  until hit >= 21
+  until hit?(deal_card) >= 21
     
   end
 end
